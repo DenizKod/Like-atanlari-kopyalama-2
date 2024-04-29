@@ -8,7 +8,7 @@
 
 ![image](https://github.com/DenizKod/ARK-ISTEGI-IPTAL-ETME/assets/168285638/7e1b2696-803e-447a-ae3f-f7844a44d28f)
 
-### Aşağıdaki kodu kopyala yeni betik sayfasındaki tüm kodları baştan sona sil ve bunu ekle.
+### Aşağıdaki kodu kopyala betik sayfasındaki tüm kodları baştan sona sil ve bunu ekle. "dosya" sekmesine tıkla ve "kaydet"
 ```
 // ==UserScript==
 // @name         Facebook Beğeni Listesi Kopyalayıcı - F4 ile Kopyala
@@ -16,7 +16,7 @@
 // @version      0.3
 // @description  Facebook postlarında F4 tuşu ile beğeni yapan kullanıcıların isimlerini düzgün bir şekilde kopyala
 // @author       You
-// @match        *://*.facebook.com/*
+// @match        www.facebook.com/groups/bgyagain3
 // @grant        none
 // ==/UserScript==
 
@@ -65,9 +65,9 @@
 ![image](https://github.com/DenizKod/Like-atanlari-kopyalama-1/assets/168285638/e757b9c2-c263-40fb-9e74-3ac2c3d325f9)
 
 
-<p>- https://www.facebook.com/groups/gamingbgy2* sadece gaming'de çalışır</p>
-<p>- https://www.facebook.com/groups/bgystonks2* sadece Stonks grubunda çalşışır</p>
-<p>- https://www.facebook.com/profile.php?id=100079957152392* Ömer Serdar Özkan Profilinde çalışır<p>
-<p>- https://www.facebook.com Tüm facebook üzerinde çalışır.</p>
+<p>- www.facebook.com/groups/gamingbgy2* sadece gaming'de çalışır</p>
+<p>- www.facebook.com/groups/bgystonks2* sadece Stonks grubunda çalşışır</p>
+<p>- www.facebook.com/profile.php?id=100079957152392* Ömer Serdar Özkan Profilinde çalışır<p>
+<p>- www.facebook.com Tüm facebook üzerinde çalışır.</p>
 
 <p>başka grupta kullanmak istiyorsan TEK YAPMAN GEREKEN @MATCH kısmındaki linki değiştirmek.</p>
